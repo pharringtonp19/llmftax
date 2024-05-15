@@ -6,7 +6,7 @@ setup(
     description='Fine Tuing for Causal Inference in Jax',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/pharringtonp19/llmft',  # URL to the repository
+    url='https://github.com/pharringtonp19/llmftax',  # URL to the repository
     author='Patrick Power',
     author_email='your.email@example.com',
     license='MIT',  # Or whatever license you choose
