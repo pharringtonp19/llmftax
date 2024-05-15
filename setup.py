@@ -8,7 +8,7 @@ setup(
     long_description_content_type='text/markdown',
     url='https://github.com/pharringtonp19/llmftax',  # URL to the repository
     author='Patrick Power',
-    author_email='your.email@example.com',
+    author_email='pharringtonp19@gmail.com',
     license='MIT',  # Or whatever license you choose
     packages=find_packages(),
     install_requires=[
