@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Change directory
-cd llmft
+cd llmftax
 
 # Name of the virtual environment
 ENV_NAME="llms"

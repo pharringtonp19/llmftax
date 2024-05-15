@@ -25,7 +25,7 @@ Run script
 
 Open directory
 ```
-cd llmft
+cd llmftax
 ```
 
 Activate Virtual Environment
